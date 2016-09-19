@@ -5,6 +5,12 @@ A centerized control of home devices on one application. It provide an open inte
 
 ## Interconnection Diagram
 
+## Unit Types
+Every unit have a unit type
+
+## Unit Store
+
+
 ## Design
 
 ## Interface
